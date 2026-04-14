@@ -1,1 +1,0 @@
-s905x3_armbian
